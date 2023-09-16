@@ -1,6 +1,10 @@
 # Guess-Game
+This game is build using HTML, CSS and JavaScript.
 
-Guidelines to play the game-:
+
+
+
+<br>Guidelines to play the game-:
 1. Click on input-box above check button.
 2. Enter a number between 1 to 20.
 3. Click on check button.
